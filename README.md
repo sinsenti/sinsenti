@@ -1,4 +1,9 @@
-## Hi there 👋
+# Sergey
+Freshmen at BSU, FAMCS, Cybersecurity
+
+#### Skills: Linux | Git | Python | SQL | Docker | Bash | C++ | OOP 
+- 📫 How to reach me: sinsenti73@gmail.com
+
 
 <!--
 **sinsenti/sinsenti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
