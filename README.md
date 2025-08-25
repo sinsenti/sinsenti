@@ -4,7 +4,9 @@
 Freshmen at BSU, FAMCS, Cybersecurity
 
 #### Skills: Linux | Git | Java | Python | SQL | Docker | Bash | C++ | OOP 
-- 📫 How to reach me: sinsenti73@gmail.com
+- 📫 How to reach me:
+- email: sinsenti73@gmail.com
+- Telegram: ilovethedaffodil
 
 ### 🛠️Languages and Tools
 
