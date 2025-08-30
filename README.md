@@ -16,10 +16,11 @@
 
 ## About Me
 
-#### I am a cybersecurity sophomore at BSU with a passion for programming. Constantly expanding my skills and exploring new technologies. Open to new challenges and eager to take on new opportunities. Also Seeking partners for collaborative learning, training, and project work.
+I am a cybersecurity sophomore at BSU with a passion for programming. Constantly expanding my skills and exploring new technologies. Open to new challenges and eager to take on new opportunities. Also Seeking partners for collaborative learning, training, and project work.
 
-## Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinsenti&layout=compact&theme=radical)
+### GitHub Stats
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinsenti&layout=compact&theme=radical) -->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sinsenti&theme=radical)
 ### How to reach me:
