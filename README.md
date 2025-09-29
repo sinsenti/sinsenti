@@ -18,11 +18,11 @@
 
 I am a cybersecurity sophomore at BSU with a passion for programming. Constantly expanding my skills and exploring new technologies. Open to new challenges and eager to take on new opportunities. Also seeking partners for collaborative learning, training, and project work.
 
-### GitHub Stats
+<!--### GitHub Stats -->
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sinsenti&layout=compact&theme=radical) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sinsenti&theme=radical)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sinsenti&theme=radical) -->
 ### How to reach me:
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinsenti73@gmail.com) &nbsp; [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilovethedaffodil) &nbsp; [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergey-pardaev-379370350/)
