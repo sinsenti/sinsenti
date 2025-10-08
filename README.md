@@ -5,9 +5,9 @@
 
 ### 🛠️Languages and Tools
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)](https://www.linux.org/)
@@ -16,7 +16,11 @@
 
 ## About Me
 
-I am a cybersecurity sophomore at BSU with a passion for programming. Constantly expanding my skills and exploring new technologies. Open to new challenges and eager to take on new opportunities. Also seeking partners for collaborative learning, training, and project work.
+I am a cybersecurity sophomore at BSU with a strong foundation in programming and math and a passion for technology. My journey in programming began with backend development, where I gained hands-on experience in Python and Java. I further expanded my expertise into DevOps, learning about automation and CI/CD pipelines.
+
+Currently, I am deepening my knowledge in Machine Learning and Data Science. I thrive in dynamic environments and am always eager to take on new challenges. I am open to opportunities in backend development, DevOps, Machine Learning, and data-related roles.
+
+Additionally, I' am actively seeking collaborators for projects, training, and learning (currently much thirsty in Machine Learning). If you have opportunities to discuss, feel free to connect!
 
 <!--### GitHub Stats -->
 
