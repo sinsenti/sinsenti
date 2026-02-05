@@ -16,7 +16,7 @@
 
 ## About Me
 
-I am a cybersecurity sophomore at BSU with a strong foundation in programming and math and a passion for technology. My journey in programming began with backend development, where I gained hands-on experience in Python and Java. I further expanded my expertise into DevOps, learning about automation and CI/CD pipelines.
+I am a sophomore at BSU, studying at the Faculty of Applied Mathematics and Computer Science with a strong foundation in programming and math and a passion for technology. My journey in programming began with backend development, where I gained hands-on experience in Python and Java. I further expanded my expertise into DevOps, learning about automation and CI/CD pipelines.
 
 Currently, I am deepening my knowledge in Machine Learning and Data Science. I thrive in dynamic environments and am always eager to take on new challenges. I am open to opportunities in backend development, DevOps, Machine Learning, and data-related roles.
 
