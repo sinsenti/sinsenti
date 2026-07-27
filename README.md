@@ -1,10 +1,12 @@
 # Hi, I'm Sergey 👋
 
+
+
 **Software & AI Engineer** bridging the gap between high-performance backend platforms (**Python, FastAPI, Django**) and production AI/ML (**NLP, RAG, LangChain/LangGraph, MLOps**).
 
 ---
 
-## 🚀 About Me
+## About Me
 
 * 🎓 **Education:** Currently in my 3rd year at BSU (Faculty of Applied Mathematics and Computer Science), focusing on cybersecurity, advanced mathematics, and algorithms.
 * 💻 **What I Do:** Build full-stack solutions, develop high-performance backend architectures, engineer production-grade LLM/RAG pipelines, and deploy 0-to-1 cloud infrastructure via **Terraform (AWS/GCP)**.
